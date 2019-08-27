@@ -1,0 +1,2 @@
+# Machine-Learning-based-Supply-Chain-Demand-Forecast-for-a-Global-Pharmacy-Company
+The dataset is of a Global Pharmacy Company. The dataset comprises of Historical sales, Product Information and products which need forecasting. The demand forecasting is required at a quarterly level. Carry-Over products are those products which have historical data present and New products do not have any historical data present. 
